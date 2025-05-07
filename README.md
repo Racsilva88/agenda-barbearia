@@ -11,6 +11,6 @@ Aplicação web desenvolvida como projeto integrador da disciplina de Desenvolvi
 - [Em breve] Integração com API do WhatsApp
 
 ## 📋 Instruções de uso
-1. Clone o repositório:
+1. repositório:
    ```bash
-   git clone https://github.com/Racsilva88/agenda-barbearia.git
+   [git clone https://github.com/Racsilva88/agenda-barbearia.git](https://racsilva88.github.io/agenda-barbearia/)
