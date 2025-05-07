@@ -1,2 +1,16 @@
-# agenda-barbearia
-Aplicação web desenvolvida como projeto integrador da disciplina de Desenvolvimento Web. A plataforma permite o agendamento de cortes gratuitos para a comunidade, com envio de mensagens via WhatsApp. Utiliza HTML, CSS e JavaScript com estrutura responsiva, e será integrada a um banco de dados em módulos futuros.
+# Agenda Solidária - Barbearia Espaço Van
+
+Aplicação web desenvolvida como projeto integrador da disciplina de Desenvolvimento Web. A plataforma permite o agendamento de cortes gratuitos para a comunidade no estabelecimento *Espaço Van*, com envio automático de mensagens via WhatsApp. O sistema visa promover inclusão social através de um serviço solidário.
+
+## 🛠 Tecnologias utilizadas
+- HTML5 (estrutura semântica)
+- CSS3 (estilização responsiva)
+- JavaScript (dinamismo e validações)
+- Git e GitHub (controle de versão)
+- [Em breve] Integração com banco de dados (SQL)
+- [Em breve] Integração com API do WhatsApp
+
+## 📋 Instruções de uso
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
