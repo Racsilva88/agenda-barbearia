@@ -13,4 +13,4 @@ Aplicação web desenvolvida como projeto integrador da disciplina de Desenvolvi
 ## 📋 Instruções de uso
 1. repositório:
    ```bash
-   [git clone https://github.com/Racsilva88/agenda-barbearia.git](https://racsilva88.github.io/agenda-barbearia/)
+   https://racsilva88.github.io/agenda-barbearia/
